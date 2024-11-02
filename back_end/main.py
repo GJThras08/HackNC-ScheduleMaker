@@ -1,1 +1,1 @@
-"""Main file for Schedule Maker"""
+"""Main file for Schedule Maker!"""
