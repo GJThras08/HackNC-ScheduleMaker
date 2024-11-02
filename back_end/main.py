@@ -1,1 +1,1 @@
-"""Main File for Schedule App"""
+"""Main file for Schedule Maker"""
